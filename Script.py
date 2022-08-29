@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MalluMoviesGroup_MM>FILM POINT</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/@ottonlinehelpbot>FILM POINT</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -117,7 +117,7 @@ Name - {}
 
     MELCOW_ENG = """<b>Hello {}😍, and welcome to {} Group.❤️
 
-Join our <a href='https://t.me/+LJRsBp82HiJhNDhl'>main channel</a> below to get access to the movies. Before requesting the movies, Must join our main channel. Only by joining will you get access to all the movies...
+Join our <a href='https://t.me/+PPazg3GZJf4zYWJl'>main channel</a> below to get access to the movies. Before requesting the movies, Must join our main channel. Only by joining will you get access to all the movies...
 
 NB: You can only get the movie by typing in the correct spelling...
 
@@ -132,7 +132,7 @@ Do not contact Admin directly...
 
 If you want to contact Admin, Please send the message to @assistant_m4_bot and the bot will deliver the message to the group Admin...
 
-<a href='https://t.me/filmy_harbour_support'>If you are facing any problems with our movie files, bots or groups, report it in our support group @filmy_harbour_support</a>
+<a href='https://t.me/ottonlinehelpbot'>If you are facing any problems with our movie files, bots or groups, report it in our support group @filmy_harbour_support</a>
 
 For admin support type @admins with your message and the bot will forward the message to the admin...</b>
 """
@@ -141,6 +141,6 @@ For admin support type @admins with your message and the bot will forward the me
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+• ᴜꜱᴇʀɴᴀᴍᴇ : @ottonlinehelpbot
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/ottonlinehelpbot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 """
