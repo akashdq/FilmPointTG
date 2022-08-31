@@ -130,9 +130,9 @@ Wᴇ Dᴏ Nᴏᴛ Oᴡɴ Aɴʏ Cᴏɴᴛᴇɴᴛ Pᴏsᴛᴇᴅ Hᴇʀᴇ. Wᴇ 
 
 Do not contact Admin directly...
 
-If you want to contact Admin, Please send the message to @assistant_m4_bot and the bot will deliver the message to the group Admin...
+If you want to contact Admin, Please send the message to @ottonlinehelpbot and the bot will deliver the message to the group Admin...
 
-<a href='https://t.me/ottonlinehelpbot'>If you are facing any problems with our movie files, bots or groups, report it in our support group @filmy_harbour_support</a>
+<a href='https://t.me/ottonlinehelpbot'>If you are facing any problems with our movie files, bots or groups, report it to our Admin @ottonlinehelpbot</a>
 
 For admin support type @admins with your message and the bot will forward the message to the admin...</b>
 """
