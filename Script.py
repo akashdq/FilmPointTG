@@ -12,7 +12,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅𝟺.𝟷.𝟿 [ 𝙿𝚁𝙾 ]"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- 𝐒𝐨𝐮𝐫𝐜𝐞 - <a href="https://t.me/MalluMoviesGroup_MM">ʜᴇʀᴇ</a>
+- 𝐒𝐨𝐮𝐫𝐜𝐞 - <a href="https://t.me/@ottonlinehelpbot">ʜᴇʀᴇ</a>
 𝐃𝐄𝐕𝐒:
 - <a href="https://t.me/MalluMoviesGroup_MM">𝖥𝖨𝖫𝖬 𝖯𝖮𝖨𝖭𝖳</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
