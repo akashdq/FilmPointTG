@@ -8,10 +8,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+FilmPoint!;Created+by+AKTechy+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
-[![Stars](https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?style=flat-square&color=yellow)](https://github.com/Joelkb/DQ-The-File-Donor/stargazers)
-[![Forks](https://img.shields.io/github/forks/Joelkb/DQ-The-File-Donor?style=flat-square&color=orange)](https://github.com/Joelkb/DQ-The-File-Donor/fork)
-[![Size](https://img.shields.io/github/repo-size/Joelkb/DQ-The-File-Donor?style=flat-square&color=green)](https://github.com/Joelkb/DQ-The-File-Donor/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Joelkb/DQ-The-File-Donor)   
+[![Stars](https://img.shields.io/github/stars/BroDaddy66/FilmPoint?style=flat-square&color=yellow)](https://github.com/BroDaddy66/FilmPoint/stargazers)
+[![Forks](https://img.shields.io/github/forks/BroDaddy66/FilmPoint?style=flat-square&color=orange)](https://github.com/BroDaddy66/FilmPoint/fork)
+[![Size](https://img.shields.io/github/repo-size/BroDaddy66/FilmPoint?style=flat-square&color=green)](https://github.com/BroDaddy66/FilmPoint/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/BroDaddy66/FilmPoint)   
 [![Contributors](https://img.shields.io/github/contributors/Joelkb/DQ-The-File-Donor?style=flat-square&color=green)](https://github.com/Joelkb/DQ-The-File-Donor/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Joelkb/DQ-The-File-Donor/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/Joelkb/DQ-The-File-Donor.svg)](https://stars.medv.io/Joelkb/DQ-The-File-Donor)
