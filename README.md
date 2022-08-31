@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/83fad3319b6a401f0e9c4.jpg" alt="FilmPoint Logo">
 </p>
 <h1 align="center">
-  <b>FilmPoint Bot</b>
+  <b>FilmPointTG</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+FilmPoint!;Created+by+AKTechy+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
