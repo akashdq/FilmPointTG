@@ -155,7 +155,7 @@ async def start(client, message):
                           InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
                           InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                        ],[
-                          InlineKeyboardButton("🔖 ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴜʙᴛɪᴛʟᴇ 🔖", url="https://telegra.ph/DOWNLOAD-SUBTITLES-01-05")
+                          InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
                          ]
                         ]
                     )
@@ -174,7 +174,7 @@ async def start(client, message):
                           InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
                           InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                        ],[
-                          InlineKeyboardButton("🔖 ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴜʙᴛɪᴛʟᴇ 🔖", url="https://telegra.ph/DOWNLOAD-SUBTITLES-01-05")
+                          InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
                          ]
                         ]
                     )
@@ -245,7 +245,7 @@ async def start(client, message):
                       InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
                       InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                    ],[
-                      InlineKeyboardButton("🔖 ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴜʙᴛɪᴛʟᴇ 🔖", url="https://telegra.ph/DOWNLOAD-SUBTITLES-01-05")
+                      InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
                      ]
                     ]
                 )
@@ -288,7 +288,7 @@ async def start(client, message):
               InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
               InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
            ],[
-              InlineKeyboardButton("🔖 ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴜʙᴛɪᴛʟᴇ 🔖", url="https://telegra.ph/DOWNLOAD-SUBTITLES-01-05")
+              InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
              ]
             ]
         )
