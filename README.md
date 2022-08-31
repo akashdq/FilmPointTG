@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="FilmPoint Logo">
+  <img src="https://telegra.ph/file/83fad3319b6a401f0e9c4.jpg" alt="FilmPoint Logo">
 </p>
 <h1 align="center">
   <b>FilmPoint Bot</b>
