@@ -387,7 +387,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                               InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
                               InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                            ],[
-                              InlineKeyboardButton("🔖 ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴜʙᴛɪᴛʟᴇ 🔖", url="https://telegra.ph/DOWNLOAD-SUBTITLES-01-05")
+                              InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
                              ]
                             ]
                         )
@@ -435,7 +435,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                   InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
                   InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                ],[
-                  InlineKeyboardButton("🔖 ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴜʙᴛɪᴛʟᴇ 🔖", url="https://telegra.ph/DOWNLOAD-SUBTITLES-01-05")
+                  InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
                  ]
                 ]
             )
@@ -456,8 +456,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                 ],[
-                    InlineKeyboardButton('🤴ʙᴏᴛ ᴏᴡɴᴇʀ🤴', callback_data="owner_info"),
-                    InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/MalluMoviesGroup_MM')
+                    InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
+                    InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
                 ],[
                     InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
