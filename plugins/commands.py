@@ -24,7 +24,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                 ],[
-                    InlineKeyboardButton('🤴ʙᴏᴛ ᴏᴡɴᴇʀ🤴', callback_data="owner_info"),
+                    InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
                     InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/filmy_harbour')
                 ],[
                     InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
@@ -47,7 +47,7 @@ async def start(client, message):
         buttons = [[
                         InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                     ],[
-                        InlineKeyboardButton('🤴ʙᴏᴛ ᴏᴡɴᴇʀ🤴', callback_data="owner_info"),
+                        InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
                         InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/filmy_harbour')
                     ],[
                         InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
@@ -95,7 +95,7 @@ async def start(client, message):
         buttons = [[
                         InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                     ],[
-                        InlineKeyboardButton('🤴ʙᴏᴛ ᴏᴡɴᴇʀ🤴', callback_data="owner_info"),
+                        InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
                         InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/filmy_harbour')
                     ],[
                         InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
