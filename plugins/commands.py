@@ -25,12 +25,12 @@ async def start(client, message):
                     InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                 ],[
                     InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
-                    InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/filmy_harbour')
+                    InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
                 ],[
                     InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('💥 ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💥', url='https://t.me/+LJRsBp82HiJhNDhl')
+                    InlineKeyboardButton('💥 Movie Updates 💥', url='https://t.me/+PPazg3GZJf4zYWJl')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
@@ -48,12 +48,12 @@ async def start(client, message):
                         InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                     ],[
                         InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
-                        InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/filmy_harbour')
+                        InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
                     ],[
                         InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
                         InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
                     ],[
-                        InlineKeyboardButton('💥 ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💥', url='https://t.me/+LJRsBp82HiJhNDhl')
+                        InlineKeyboardButton('💥 Movie Updates 💥', url='https://t.me/+PPazg3GZJf4zYWJl')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -96,12 +96,12 @@ async def start(client, message):
                         InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                     ],[
                         InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
-                        InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/filmy_harbour')
+                        InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
                     ],[
                         InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
                         InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
                     ],[
-                        InlineKeyboardButton('💥 ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💥', url='https://t.me/+LJRsBp82HiJhNDhl')
+                        InlineKeyboardButton('💥 Movie Updates 💥', url='https://t.me/+PPazg3GZJf4zYWJl')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
