@@ -153,7 +153,7 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton("⚡ ᴊᴏɪɴ ɢʀᴏᴜᴘ ⚡", url="https://t.me/filmy_harbour"),
-                          InlineKeyboardButton("💥 ꜱʜᴀʀᴇ
+                          InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                        ],[
                           InlineKeyboardButton("🔖 ᴅᴏᴡɴʟᴏᴀᴅ ꜱᴜʙᴛɪᴛʟᴇ 🔖", url="https://telegra.ph/DOWNLOAD-SUBTITLES-01-05")
                          ]
