@@ -1,5 +1,5 @@
 {
-    "name": "DQ-The-File-Donor",
+    "name": "AKTechy",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Joelkb/DQ-the-file-donor",
-    "repository": "https://github.com/Joelkb/DQ-the-file-donor",
+    "website": "https://github.com/BroDaddy66/AKTechy",
+    "repository": "https://github.com/BroDaddy66/AKTechy",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
