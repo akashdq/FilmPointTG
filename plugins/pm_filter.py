@@ -384,7 +384,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
+                              InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/+aWs_gTvAD6IwZjll"),
                               InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                            ],[
                               InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
@@ -432,7 +432,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
+                  InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/+aWs_gTvAD6IwZjll"),
                   InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                ],[
                   InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
@@ -457,7 +457,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                 ],[
                     InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
-                    InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
+                    InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/+aWs_gTvAD6IwZjll')
                 ],[
                     InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -492,7 +492,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM'),
+            InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/+aWs_gTvAD6IwZjll'),
             InlineKeyboardButton('❤️ Source Code', callback_data='source')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
@@ -617,7 +617,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("🔙 ʙᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("ᴄᴏɴᴛᴀᴄᴛ", url="https://t.me/MalluMoviesGroup_MM")
+                    InlineKeyboardButton("ᴄᴏɴᴛᴀᴄᴛ", url="https://t.me/+aWs_gTvAD6IwZjll")
                   ]]
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
