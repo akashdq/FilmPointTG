@@ -38,7 +38,7 @@ async def save_group(bot, message):
             return
         buttons = [[
             InlineKeyboardButton('💫Developer💫', url=f'https://t.me/@ottonlinehelpbot'),
-            InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
+            InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/+aWs_gTvAD6IwZjll')
         ],[InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -58,7 +58,7 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
+                                                                           InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/+aWs_gTvAD6IwZjll"),
                                                                            InlineKeyboardButton("🔰Movie Updates🔰", url="https://t.me/+PPazg3GZJf4zYWJl")
                                                                          
                                                                          ]]
