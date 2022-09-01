@@ -25,7 +25,7 @@ async def start(client, message):
                     InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                 ],[
                     InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
-                    InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
+                    InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/+aWs_gTvAD6IwZjll')
                 ],[
                     InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -48,7 +48,7 @@ async def start(client, message):
                         InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                     ],[
                         InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
-                        InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
+                        InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/+aWs_gTvAD6IwZjll')
                     ],[
                         InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
                         InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -96,7 +96,7 @@ async def start(client, message):
                         InlineKeyboardButton('🔰Movie Updates🔰', url=f'https://t.me/+PPazg3GZJf4zYWJl')
                     ],[
                         InlineKeyboardButton('💫Developer💫', callback_data="owner_info"),
-                        InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/MalluMoviesGroup_MM')
+                        InlineKeyboardButton('🍿Movie Group🍿', url='https://t.me/+aWs_gTvAD6IwZjll')
                     ],[
                         InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
                         InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -152,7 +152,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
+                          InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/+aWs_gTvAD6IwZjll"),
                           InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                        ],[
                           InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
@@ -171,7 +171,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
+                          InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/+aWs_gTvAD6IwZjll"),
                           InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                        ],[
                           InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
@@ -242,7 +242,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
+                      InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/+aWs_gTvAD6IwZjll"),
                       InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
                    ],[
                       InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
@@ -285,7 +285,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/MalluMoviesGroup_MM"),
+              InlineKeyboardButton("🍿Movie Group🍿", url="https://t.me/+aWs_gTvAD6IwZjll"),
               InlineKeyboardButton("💥 Movie Updates 💥", url="https://t.me/+PPazg3GZJf4zYWJl")
            ],[
               InlineKeyboardButton("🔖 Film Point 🔖", url="https://t.me/FilmPointTG")
