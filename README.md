@@ -138,7 +138,7 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=JoelTGX&message=Github&color=critical)](https://github.com/Joelkb)
+* [![AKTechy](https://img.shields.io/static/v1?label=AKTechy&message=Github&color=critical)](https://github.com/BroDaddy66)
 * [![Contact](https://img.shields.io/static/v1?label=Contact&message=OnTelegram&color=critical)](https://telegram.me/ottonlinehelpbot)
 
 ## Thanks to 
