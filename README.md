@@ -139,7 +139,7 @@ python3 bot.py
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 * [![Joel-TGX](https://img.shields.io/static/v1?label=JoelTGX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact&message=OnTelegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![Contact](https://img.shields.io/static/v1?label=Contact&message=OnTelegram&color=critical)](https://telegram.me/ottonlinehelpbot)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
