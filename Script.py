@@ -140,7 +140,7 @@ For admin support type @admins with your message and the bot will forward the me
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : <a href='t.me/@FilmPointTG'>𝖥𝖨𝖫𝖬 𝖯𝖮𝖨𝖭𝖳</a>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : FilmPointTG
 • ᴜꜱᴇʀɴᴀᴍᴇ : @ottonlinehelpbot
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/ottonlinehelpbot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 """
