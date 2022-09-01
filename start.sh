@@ -8,5 +8,5 @@ else
 fi
 cd /FilmPoint
 pip3 install -U -r requirements.txt
-echo "Starting FilmPoint...."
+echo "Starting Bot...."
 python3 bot.py
