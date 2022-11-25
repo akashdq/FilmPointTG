@@ -23,13 +23,13 @@
 - [x] Force Subscription
 - [x] Welcome Message
 - [x] Automatic File Filtering
-- [x] Double Filter Button
-- [x] Single Filter Button
+- [x] Double Button
+- [x] Single Button
 - [x] Bot PM File Send Mode
 - [x] Auto File Send
 - [x] Forward Restriction
 - [x] File Protect
-- [x] Manual File Filtering
+- [x] Manual File Selecting
 - [x] IMDB
 - [x] Admin Commands
 - [x] Broadcast
@@ -59,8 +59,8 @@
 • /stats - to get status of files in db.
 • /connections - To see all connected groups
 • /settings - To open settings menu
-• /filter - add manual filters
-• /filters - view filters
+• /f - add manual 
+• /fs - view 
 • /connect - connect to PM.
 • /disconnect - disconnect from PM
 • /del - delete a filter
@@ -81,7 +81,7 @@
 • /ban  - to ban a user.
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
+• /broadcast - to broadcast a message to all users
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 • /status - Your Heroku API Key to check dyno, bot uptime and bot working day prediction.
@@ -144,7 +144,7 @@ python3 bot.py
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
+ - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [A](https://github.com/BroDaddy66/FilmPoint)
  - Thanks To All Everyone In This Journey
  - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
  - Thanks To Me 😂
